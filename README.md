@@ -1,5 +1,5 @@
 # Tic-Tac-Toe-Game
-Made as a practice project using HTML, CSS, Javascript
+Made it as a practice project using HTML, CSS, Javascript
 
 Link: https://csachdeva83.github.io/Tic-Tac-Toe-Game/
 
